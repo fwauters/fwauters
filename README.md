@@ -8,6 +8,12 @@
 
 ___This is a test to check up what could work with this feature ^^___
 
+<details>
+  <summary>Juin</summary>
+
+
+   </details>
+
 <!--
 **fwauters/fwauters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
