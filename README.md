@@ -1,19 +1,34 @@
 ![Hi !](https://media.giphy.com/media/drwrNnpOK09dqsttOn/giphy.gif)
 
 >
-> ## Welcome in my GitHub profile ! :alien:
+> ## :alien: Welcome in my GitHub profile !
 >
 > I'm a junior developper from Belgium currently in intense code training with [BeCode](https://becode.org/).
+>
+> :construction: _This profile page is a work in progress._
 >
 
 ___This is a test to check up what could work with this feature ^^___
 
+----------------------------------------------------------------------------------------------
+
 <details>
-  <summary>test oO</summary>
+  <summary> ## Works </summary>
 
-## Title
+### Title
 
-Blablabla x)
+Blablabla ...
+
+</details>
+
+----------------------------------------------------------------------------------------------
+
+<details>
+  <summary> ## Hobbies </summary>
+
+### Title
+
+Some more blabla x)
 
 </details>
 
