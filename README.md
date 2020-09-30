@@ -15,7 +15,7 @@
 ----------------------------------------------------------------------------------------------
 
 <details>
-  <summary> :octocat:   Main Projects Shortcuts </summary>
+  <summary> :octocat: &nbsp; Main Projects Shortcuts </summary>
 
 ### Title2
 
@@ -26,7 +26,7 @@ Some more blabla x)
 ----------------------------------------------------------------------------------------------
 
 <details>
-  <summary> :muscle:   My Training Advencement </summary>
+  <summary> :muscle: &nbsp; My Training Advencement </summary>
 
 ### Title1
 
@@ -36,7 +36,7 @@ Blablabla ...
 
 ----------------------------------------------------------------------------------------------
 <details>
-  <summary> :alien:   Some Stuff About Me </summary>
+  <summary> :alien: &nbsp; Some Stuff About Me </summary>
 
 ### My hobbies
 
