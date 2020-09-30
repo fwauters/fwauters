@@ -8,12 +8,10 @@
 > :construction: _This profile page is a work in progress._
 >
 
-___This is a test to check up what could work with this feature ^^___
-
 ----------------------------------------------------------------------------------------------
 
 <details>
-  <summary> ## Works </summary>
+  <summary> Tech </summary>
 
 ### Title
 
@@ -24,13 +22,15 @@ Blablabla ...
 ----------------------------------------------------------------------------------------------
 
 <details>
-  <summary> ## Hobbies </summary>
+  <summary> Hobbies </summary>
 
 ### Title
 
 Some more blabla x)
 
 </details>
+
+![Say yes to code.](https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif)
 
 <!--
 **fwauters/fwauters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
