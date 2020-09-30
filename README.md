@@ -1,15 +1,13 @@
 ![Hola !](https://media.giphy.com/media/drwrNnpOK09dqsttOn/giphy.gif)
 
 >
->
 > ## Welcome in my GitHub profile !
 >
 > I'm a junior developper from Belgium currently in intense code training with [BeCode](https://becode.org/).
 >
-> 
+> Feel free to check my work and con
 >
-> :construction: _This profile page is a work in progress._
->
+> :construction: &nbsp; _This profile page is a work in progress, plenty of stuff is still missing !_
 >
 
 ----------------------------------------------------------------------------------------------
@@ -17,9 +15,7 @@
 <details>
   <summary> :octocat: &nbsp; Main Projects Shortcuts </summary>
 
-### Title2
-
-Some more blabla x)
+:construction: &nbsp; _Coming soon ..._
 
 </details>
 
@@ -28,9 +24,7 @@ Some more blabla x)
 <details>
   <summary> :muscle: &nbsp; My Training Advencement </summary>
 
-### Title1
-
-Blablabla ...
+:construction: &nbsp; _Coming soon ..._
 
 </details>
 
@@ -39,21 +33,27 @@ Blablabla ...
 <details>
   <summary> :alien: &nbsp; Some Stuff About Me </summary>
 
+:construction: &nbsp; _In progress_
+
+### Contact informations
+
+[LinkedIn](https://www.linkedin.com/in/francois-wauters/)
+
 ### My hobbies
 
 - :guitar: Bass Guitar
 - :clapper: Movies
 - :video_game: Video Games
 
-### Contact Infos
-
-blabla
-
 </details>
 
 ----------------------------------------------------------------------------------------------
 
-Thank you for visiting ;)
+>
+> Contact me if you have any advice, I am always looking for ways to improve !
+>
+> Have a great day :wave:
+>
 
 <!--
 **fwauters/fwauters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
