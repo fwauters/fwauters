@@ -1,9 +1,11 @@
-![Hi !](https://media.giphy.com/media/drwrNnpOK09dqsttOn/giphy.gif)
+![Hola !](https://media.giphy.com/media/drwrNnpOK09dqsttOn/giphy.gif)
 
 >
 > ## :alien: Welcome in my GitHub profile !
 >
 > I'm a junior developper from Belgium currently in intense code training with [BeCode](https://becode.org/).
+>
+> 
 >
 > :construction: _This profile page is a work in progress._
 >
@@ -11,9 +13,9 @@
 ----------------------------------------------------------------------------------------------
 
 <details>
-  <summary> Tech </summary>
+  <summary> Training Advencement :muscle: </summary>
 
-### Title
+### Title1
 
 Blablabla ...
 
@@ -22,15 +24,26 @@ Blablabla ...
 ----------------------------------------------------------------------------------------------
 
 <details>
-  <summary> Hobbies </summary>
+  <summary> :octocat: Project Shortcuts </summary>
 
-### Title
+### Title2
 
 Some more blabla x)
 
 </details>
 
-![Say yes to code.](https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif)
+----------------------------------------------------------------------------------------------
+
+<details>
+  <summary> About Me :grey_question: </summary>
+
+### My hobbies
+
+- :guitar: Bass Guitar
+- :clapper: Movies
+- :video_game: Video Games
+
+</details>
 
 <!--
 **fwauters/fwauters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
