@@ -1,14 +1,12 @@
-![Hi !](https://media.giphy.com/media/26ufn24Onjz8w7NxS/giphy.gif)
+![Hi !](https://media.giphy.com/media/drwrNnpOK09dqsttOn/giphy.gif)
 
-# Hi, I'm François ! :alien:
+>
+> ## Welcome in my GitHub profile ! :alien:
+>
+> I'm a junior developper from Belgium currently in intense code training with [BeCode](https://becode.org/).
+>
 
-Welcome in my GitHub profile !
-
-- :belgium: I'm a junior developper from Belgium.
-
-I'm currently in intense code training with [BeCode](https://becode.org/).
-
-This is a test to check up what could work with this feature ^^
+___This is a test to check up what could work with this feature ^^___
 
 <!--
 **fwauters/fwauters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
