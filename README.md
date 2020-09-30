@@ -5,8 +5,6 @@
 >
 > I'm a junior developper from Belgium currently in intense code training with [BeCode](https://becode.org/).
 >
-> DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
->
 > :construction: &nbsp; _This profile page is a work in progress, plenty of stuff is still missing !_
 >
 
@@ -41,7 +39,7 @@
 
 ### My Background
 
-I worked for years in sales but I have always been passionate about computers. I am also very interested in design and the IU/UX side.
+I worked for years in sales but I have always been passionate about computers. I am also very interested in design and the UI/UX side.
 
 ### My hobbies
 
@@ -54,7 +52,7 @@ I worked for years in sales but I have always been passionate about computers. I
 ----------------------------------------------------------------------------------------------
 
 >
-> Contact me if you have any tips or Vadvice, I am always looking for ways to improve !
+> Contact me if you have any tips or advice, I'm always looking for ways to improve !
 >
 > Have a great day :wave:
 >
